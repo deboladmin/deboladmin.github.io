@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0cb724"],{"4a67":function(e,n,r){"use strict";r.r(n);var a=r("7a23");function c(e,n,r,c,t,o){var b=Object(a["G"])("router-view");return Object(a["y"])(),Object(a["f"])(b)}var t={name:"DashboardDrivers"},o=r("6b0d"),b=r.n(o);const s=b()(t,[["render",c]]);n["default"]=s}}]);
+//# sourceMappingURL=chunk-2d0cb724.3e2c74b5.js.map
